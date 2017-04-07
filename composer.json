@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.6.0",
-        "laravelcollective/html": "5.*",
+        "laravelcollective/html": "5.0 - 5.3",
         "illuminate/database": "5.*@dev",
         "illuminate/validation": "5.*@dev"
     },
